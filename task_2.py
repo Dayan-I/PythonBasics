@@ -13,6 +13,4 @@ for i in cubes:
 
     if a % 7 == 0:
         sum_num += i
-
-
 print(sum_num)
