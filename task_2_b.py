@@ -16,6 +16,6 @@ for i in cubes_1:
 
     if a % 7 == 0:
         sum_num += i
-        new_list.append(i)
+
 
 print(sum_num)

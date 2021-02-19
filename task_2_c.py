@@ -12,6 +12,6 @@ for i in cubes:
         n = n // 10
 
     if a % 7 == 0:
-        sum_num += i
+        sum_num += i + 17
 
 print(sum_num)
