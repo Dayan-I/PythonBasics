@@ -24,5 +24,6 @@ def currency_rates(valute):
         print(f'Rate of {valute} to RUB={a}. Rate is actual on date {_date}')
     else: print(None)
 
+
 valute = input('Enter the currency you want to know the rate :').upper()
 currency_rates(valute)
